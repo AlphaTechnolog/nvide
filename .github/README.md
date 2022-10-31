@@ -7,7 +7,7 @@ but without provide a complex code-base.
 to make something in the behavior of how something works, you have to change the
 configuration files inside the config.
 
-![banner](./.github/assets/banner.png)
+![banner](./assets/banner.png)
 
 ## Installation
 
