@@ -56,6 +56,7 @@ local layout = {
 				info = ' ',
 			},
 			colored = true,
+			separator = { left = nil, right = nil }
 		},
 		{
 			'diff',
